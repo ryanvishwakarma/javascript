@@ -1,0 +1,271 @@
+*{
+    padding: 0;
+    margin: 0;
+    overflow-x: hidden !important;
+}
+.navbar{
+    border: 2px solid whitesmoke;
+}
+.navbar-nav{
+    width: 50%;
+    display: flex;
+    justify-content: space-around;
+    margin: auto;
+    padding-left: 100px;
+    
+}
+.container-fluid{
+    padding-left: 100px;
+}
+.nav-item{
+    float: left;
+}
+.collapse{
+    width: auto;
+    display: flex;
+    justify-content: space-around !important;
+
+}
+.lin{
+    width: 100px;
+    background-color: transparent;
+    color: black;
+    border: 0px;
+}
+.s-up{
+    width: 150px;
+    background-color: #20B486;
+    color: white;
+    border: 0.5px; 
+    margin-right: 50px;
+}
+.frame p{
+    padding-left: 100px;
+    padding-top: 200px;
+}
+#whole{
+    height: 600px;
+    width: 80%;
+    margin: auto;
+    background-color: yellow;
+}
+.col-111{
+    border: 2px solid red;
+    width: 200px;   
+}
+
+.imagebody{
+    display: flex !important;
+    
+}
+.row{
+    width: 80%;
+    margin-left: 100px;
+}
+.col6text{
+    text-align: center !important;
+    margin-top: 150px;
+}
+.imgfluid{
+    padding-top: 50px;
+    width: 100%;
+    margin-top: 50px;
+}
+.col-7{
+    width: 500px;
+}
+label{
+    justify-content: space-between;
+    display: flex;
+    width: 100%;
+}
+.containerfluid{
+    background-color: #20B486;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin-top: 80px;
+}
+.card-body img{
+    padding: 0;
+    padding-bottom: 50px;
+}
+.imgfluid1{
+    width: 100%;
+}
+.col-sm-3{
+    padding: 10px;
+    margin: auto;
+}
+.cardmin{
+    text-align: center;
+    background-color: bisque;
+}
+.rating{
+ text-align: center;
+}
+.hthree{
+    font-size: 20px;
+    text-align: center;
+}
+.rade{
+    display: flex;
+    padding: 10px;
+    border: 2px solid black;
+    margin-top: 10%;
+    margin-left: 50px; 
+    font-size: 30px;  
+    border-radius: 10px; 
+    width: 28%;
+    margin-bottom: 25px;
+    justify-content: space-between;
+}
+.rade i{
+    margin-top: 5px;
+}
+.para{
+    font-size: 20px;
+    font-weight: 600;
+}
+.right{
+    padding-left: 50px;
+    padding-top: 50px;
+}
+.right h2{
+    font-size: 50px;
+}
+span{
+   color: #20B486;
+}
+.arrow{
+    padding-left: 15%;
+    
+}
+.cardsnow{
+    display: flex;
+    width: 80%;
+    padding-left: 50px;
+    padding-bottom: 50px;
+}
+.instructor-text{
+    margin-top: 100px;
+    padding-left: 60px;
+}
+span{
+    color: #20B486;
+}
+.moon{
+    background-color: rgb(247, 229, 196);
+}
+.imgfluid2{
+    width: 100%;
+}
+.text1{
+    text-align: center;
+}
+.achieve-text{
+    padding-left: 50px;
+}
+.achieve-text{
+    margin-left: 50px;
+}
+.white{
+    padding-top: 10%;
+    font-size: 20px;
+    display: flex;
+    width: 34%;
+}
+.white i{
+    margin-top: 20px;
+    margin-right: 10px;
+    font-size: 50px;
+}
+.imgfor{
+    width: 50%;
+
+}
+.imageson{
+    display: flex;
+    margin-left: 80%;
+    margin-top: -36%;
+}
+@media (min-width: 576px) {
+    .col-sm-4 {
+      flex: 0 0 auto;
+      width: 50.333%;
+    }
+  }
+.achivees-text{
+    margin-left: 80px;
+    margin-top: 50px;
+}
+.jupiter{
+    background-color: wheat;
+    padding-bottom: 30px;
+}
+.imgui{
+    width: 100px;
+    border-radius: 50px;
+    position: absolute;
+}
+.student{
+    display: flex;
+}
+.uidesign{
+    padding-left: 150px;
+}
+.uidesign span{
+    font-weight: 600;
+    font-size: 30px;
+}
+.ulflex{
+    margin-left: -150px;
+    margin-top: 50px;
+}
+.sun{
+    padding-bottom: 80px;
+    background-color: #E9F8F3B2;
+}
+.largest{
+    padding-top: 150px;
+    display: flex;
+}
+.imglargest{
+    width: 100%;
+}
+.largest1{
+    padding: 100px;
+    margin-top: 150px;
+}
+.buttns{
+
+    margin-top: 20px;
+    background-color: #20B486;
+    color: white;
+}
+.largest1 p{
+    padding-top: 20px;
+    font-size: 20px;
+    font-weight: 500;
+}
+.crap{
+    margin-top: 20px;
+}
+.create i{
+    margin: 10px;
+    font-size: 30px;
+}
+.image-1{
+    padding-bottom: 20px;
+}
+.create1{
+    padding-left: 50px;
+    line-height: 50px;
+}
+.create3{
+    line-height: 50px;
+    padding-top: 100px;
+}
+.create2{
+    margin: 0;
+    padding-top: 100px;
+}
